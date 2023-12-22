@@ -1,0 +1,1 @@
+This is a implementation of the automatic water tank monitor system. The main system automatically stops the flow of the water if it reaches the full capacity. and also takes in more water when the water reaches the minimum level. 
